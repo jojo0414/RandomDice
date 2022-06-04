@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>882994867837-a0nr7trk3v9aj0uahi587rop5atkcplh.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.882994867837-a0nr7trk3v9aj0uahi587rop5atkcplh</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCaxxZNS3A6Mx4tHkxLnVw6howndGU95I8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>882994867837</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>jojo.RandomDice</string>
+	<key>PROJECT_ID</key>
+	<string>randomdicegame-4300c</string>
+	<key>STORAGE_BUCKET</key>
+	<string>randomdicegame-4300c.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:882994867837:ios:db4e2fe78f290c02368b14</string>
+</dict>
+</plist>

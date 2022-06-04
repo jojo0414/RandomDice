@@ -6,9 +6,14 @@
 //
 
 import SwiftUI
+import Firebase
 
 @main
 struct RandomDiceApp: App {
+    init() {
+            FirebaseApp.configure()
+        }
+    
     var body: some Scene {
         WindowGroup {
             ContentView()
