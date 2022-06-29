@@ -8,10 +8,12 @@
 import SwiftUI
 
 struct ContentView: View {
+    @StateObject var player = Character()
     
     var body: some View {
         NavigationView{
             StartView()
+                .environmentObject(player)
         }
     }
 }

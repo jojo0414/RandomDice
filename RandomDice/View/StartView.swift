@@ -8,6 +8,7 @@
 import SwiftUI
 
 struct StartView: View {
+    @EnvironmentObject var player: Character
     var body: some View {
         ZStack {
             Image("LoginBackground")
@@ -34,6 +35,7 @@ struct StartView: View {
                 
                 NavigationLink {
                     LoginView()
+                        .environmentObject(player)
                 } label: {
                     ZStack{
                         Rectangle()
